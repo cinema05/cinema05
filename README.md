@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Windows Server Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/cinema05)
+- <b>Paraphrase</b>
+  - [Paraphrase Website](https://github.com/cinema05/Paraphrase)
 
 
 <h2> 🤳 Connect with me:</h2>
