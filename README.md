@@ -4,7 +4,8 @@
 
 - <b>Paraphrase</b>
   - [Paraphrase Website](https://github.com/cinema05/Paraphrase)
-
+- <b>Cursor Trail</b>
+  - [Cursor Trail Website](https://github.com/cinema05/Cursor-Trail)
 
 <h2> 🤳 Connect with me:</h2>
 
